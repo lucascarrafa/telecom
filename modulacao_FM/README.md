@@ -3,15 +3,15 @@ Aplicar as diversas técnicas de modulção e desmodulação, verificando alguma
 
 ## Diagrama de blocos para obtenção de um sinal de FM de banda estreita
 
-![diagrama1](/imagens/figura1.png)
+![diagrama1](modulacao_FM/imagens/figura1.PNG)
 
 ## Diagrama de blocos de uma malha de captura de fase-PLL
 
-![diagrama2](/imagens/figura2.png)
+![diagrama2](modulacao_FM/imagens/figura2.PNG)
 
 ## Imagens de alguns gráficos gerados pelo programa
 
-![grafico1](/imagens/figura3.png)
-![grafico2](/imagens/figura4.png)
-![grafico3](/imagens/figura5.png)
-![grafico4](/imagens/figura6.png)
+![grafico1](modulacao_FM/imagens/figura3.png)
+![grafico2](modulacao_FM/imagens/figura4.png)
+![grafico3](modulacao_FM/imagens/figura5.png)
+![grafico4](modulacao_FM/imagens/figura6.png)
